@@ -1,7 +1,7 @@
 ---
 layout: pid
 title: LGDXRobot2
-owner: LGDXRobotics
+owner: LGDXRobot
 license: MIT and GPLv3 (ChassisTuner only)
 site: https://lgdxrobot.uk/lgdxrobot2/
 source: https://gitlab.com/lgdxrobotics/lgdxrobot2-mcu
